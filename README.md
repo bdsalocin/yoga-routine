@@ -1,6 +1,6 @@
-# Application de Routine Quotidienne
+# Yoga Routine
 
-Il s'agit d'une application web simple pour vous aider à gérer vos exercices de routine quotidienne. Vous pouvez configurer des exercices avec leurs durées et leurs images, puis démarrer votre session de routine avec un compte à rebours pour chaque exercice.
+Ceci est une application web simple pour vous aider à gérer vos séances de yoga quotidiennes. Vous pouvez configurer des poses de yoga avec leurs durées et leurs images, puis démarrer votre session de routine avec un compte à rebours pour chaque pose.
 
 ## Table des matières
 
@@ -11,42 +11,42 @@ Il s'agit d'une application web simple pour vous aider à gérer vos exercices d
 
 ## Fonctionnalités
 
-- Configurer des exercices personnalisés avec leurs durées et leurs images.
-- Démarrer une session de routine avec des compteurs de décompte pour chaque exercice.
-- Jouer une alerte sonore lorsque la session d'un exercice se termine.
-- Personnaliser facilement les exercices pendant la configuration.
-- Option pour réinitialiser les exercices aux paramètres par défaut.
+- Configurer des poses de yoga personnalisées avec leurs durées et leurs images.
+- Démarrer une session de routine avec des compteurs de décompte pour chaque pose.
+- Jouer une alerte sonore lorsque la session d'une pose se termine.
+- Personnaliser facilement les poses pendant la configuration.
+- Option pour réinitialiser les poses aux paramètres par défaut.
 
 ## Installation
 
 1. Clonez le dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre_nom/application-routine-quotidienne.git
+   git clone https://github.com/votre_nom/yoga-routine.git
    ```
 
 2. Naviguez vers le répertoire du projet :
 
    ```bash
-   cd application-routine-quotidienne
+   cd yoga-routine
    ```
 
 3. Ouvrez le fichier `index.html` dans votre navigateur web préféré.
 
 ## Utilisation
 
-1. **Configuration des Exercices :**
+1. **Configuration des Poses :**
 
    - Ouvrez l'application dans votre navigateur web.
-   - Ajustez les durées et les images des exercices selon vos besoins.
-   - Optionnellement, vous pouvez réinitialiser les exercices aux paramètres par défaut.
+   - Ajustez les durées et les images des poses selon vos besoins.
+   - Optionnellement, vous pouvez réinitialiser les poses aux paramètres par défaut.
 
 2. **Démarrage de la Routine :**
 
-   - Une fois les exercices configurés, cliquez sur le bouton "Démarrer" pour commencer votre session de routine.
-   - Chaque exercice sera affiché avec un compte à rebours.
-   - Lorsqu'une session d'exercice se termine, une alerte sonore se déclenchera et le prochain exercice démarrera automatiquement.
+   - Une fois les poses configurées, cliquez sur le bouton "Démarrer" pour commencer votre session de routine de yoga.
+   - Chaque pose sera affichée avec un compte à rebours.
+   - Lorsqu'une session de pose se termine, une alerte sonore se déclenchera et la prochaine pose démarrera automatiquement.
 
 3. **Fin de la Routine :**
-   - Après avoir terminé tous les exercices, une page de fin s'affichera.
-   - Vous pouvez choisir de démarrer la routine à nouveau ou de réinitialiser les exercices pour la prochaine session.
+   - Après avoir terminé toutes les poses, une page de fin s'affichera.
+   - Vous pouvez choisir de démarrer la routine à nouveau ou de réinitialiser les poses pour la prochaine session.
