@@ -71,7 +71,7 @@ class Exercice {
         this.seconds--;
         this.updateCountdown();
       }
-    }, 10);
+    }, 1000);
     // Affiche le contenu de la page de routine avec le compte à rebours et l'image de l'exercice en cours
     return (main.innerHTML = `
     <div class="exercice-container">
